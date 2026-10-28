@@ -1,0 +1,10 @@
+{
+  "name": "growth-os",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Growth OS \u2014 GTM command center prototype (static site)",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
